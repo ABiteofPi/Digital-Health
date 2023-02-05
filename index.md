@@ -14,7 +14,7 @@ title: Digital Solutions and Assistance for the Neurodivergent
 Neurotypical people’s strengths and challenges are unaffected by differences that change how their brains operate. As opposed to Neurodivergent individuals in which, behavior, thought process and learning process differs from the Neurotypical, resulting in different strengths and weaknesses than the general public’s idea of “Normal”.
 While not all representations of Neurodivergency are considered disabilities, some include medical/mental disorders, leaning disabilities and other such conditions. Conditions such as autism, ADHD, dyslexia, dyscalculia, synesthesia, along with other sensory processing disorders are a few examples that can be classified as neurodivergence. In addition, other conditions like schizophrenia, OCD, BPD and bipolar disorder, can also be considered as a form of neurodivergence.
 </div>
-
+<br/><br/>
 
 ## Neurodivergent Challenges
 
@@ -25,6 +25,7 @@ Educating the public, especially children and their parents about neurodivergenc
 Studies show, people with neurodivergent conditions are more prone to anxiety disorders and depression. The extra pressure navigating a world that is shaped for the neurotypical has significant impact on mental health. There are many ideas and solutions on a social or individual level worth discussing, part of which incudes the digital space and digital solutions, which is the main focus of this article.
 </div>
 <br/><br/>
+
 ## Digital and Technology-driven solutions
 
 <div align = "justify">
@@ -38,12 +39,14 @@ Studies by the NAS in the UK show improvements in skill development, concentrati
 Brain-computer interface (BCI) technology has also been used in attention training programs. One such instance is “Cogo”, where an interactive game was developed and tested on children with ADHD. BCI enables people to control external devices via brainwaves. Cogo used a game called “Cogoland” which requires the child to move the avatar in the game by concentrating. The clinical trial involving 172 children with ADHD (ages 6-12), showed significant improvement in inattentive symptoms after 8 weeks of intervention.
 </div>
 <br/><br/>
+
 ## Conclusion
 
 <div align = "justify">
 It is as easy mislabeling or misjudging people’s behaviors, as it is overlooking the struggles of those who are different from what’s considered the social norm. This is the case for many groups of people including the neurodivergent. People who are often criticized or even bullied for acting or operating differently due to their brain differences. In the digital age with the available resources and platforms, namely the internet and various technological advancements, there are new, easier and more efficient ways to aid the struggles of people with different neurodivergent conditions. Digital solutions have been and are continuously being developed, tested and modified to better help both neurodivergent people and their caretakers. While the challenges they face could differ in each of these conditions, utilizing various resources, steps can be taken within digital health to offer a more personalized and suitable aid for the neurodivergent in navigating daily life.
 </div>
 <br/><br/>
+
 ## References
 
 <div align = "justify">
