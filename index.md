@@ -33,6 +33,7 @@ Neurodivergent people have far more difficulty processing everyday tasks, most o
 Studies by the NAS in the UK show improvements in skill development, concentration and learning in autistic children upon being introduced to technological aids. Existing solutions include companion robots for autistic children that help provide more comfort in the classroom and social settings as well as helping accelerate social, cognitive and sensory development.
 > Children with autism face particular challenges engaging in new environments and digital solutions for creating social stories can help them develop a greater social understanding and stay safe.
 > <cite>(Digital Technologies Supporting Persons on the Autism Spectrum, 2019)</cite>
+
 Brain-computer interface (BCI) technology has also been used in attention training programs. One such instance is “Cogo”, where an interactive game was developed and tested on children with ADHD. BCI enables people to control external devices via brainwaves. Cogo used a game called “Cogoland” which requires the child to move the avatar in the game by concentrating. The clinical trial involving 172 children with ADHD (ages 6-12), showed significant improvement in inattentive symptoms after 8 weeks of intervention.
 
 
