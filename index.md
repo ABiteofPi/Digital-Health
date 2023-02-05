@@ -55,33 +55,33 @@ It is as easy mislabeling or misjudging people’s behaviors, as it is overlooki
 
 <h2> References </h2>
 
-<div align = "justify">
+<div>
 
-<p style="padding-left: 1em; text-indent: -2em;">Neurodivergent: What It Is, Symptoms & Types. (n.d.). Cleveland Clinic. https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent#:~:text=The%20term%20%E2%80%9Cneurodivergent%E2%80%9D%20describes%20people</p>
+<p style="padding-left: 1em; text-indent: -1em;">Neurodivergent: What It Is, Symptoms & Types. (n.d.). Cleveland Clinic. https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent#:~:text=The%20term%20%E2%80%9Cneurodivergent%E2%80%9D%20describes%20people</p>
 
-<p style="padding-left: 1em; text-indent: -2em;">Resnick, A. (2021, October 6). What Is Neurodivergence and What Does It Mean to Be Neurodivergent? Verywell Mind. https://www.verywellmind.com/what-is-neurodivergence-and-what-does-it-mean-to-be-neurodivergent-5196627</p>
+<p style="padding-left: 1em; text-indent: -1em;">Resnick, A. (2021, October 6). What Is Neurodivergence and What Does It Mean to Be Neurodivergent? Verywell Mind. https://www.verywellmind.com/what-is-neurodivergence-and-what-does-it-mean-to-be-neurodivergent-5196627</p>
 ‌
-<p style="padding-left: 1em; text-indent: -2em;">Explainer: What is neurodivergence? Here’s what you need to know. (n.d.). World Economic Forum. https://www.weforum.org/agenda/2022/10/explainer-neurodivergence-mental-health/</p>
+<p style="padding-left: 1em; text-indent: -1em;">Explainer: What is neurodivergence? Here’s what you need to know. (n.d.). World Economic Forum. https://www.weforum.org/agenda/2022/10/explainer-neurodivergence-mental-health/</p>
 ‌
-<p style="padding-left: 1em; text-indent: -2em;">says, A. (2022, February 24). Neurotypical privilege in the labour market. LSE Business Review. https://blogs.lse.ac.uk/businessreview/2022/02/24/neurotypical-privilege-in-the-labour-market/</p>
+<p style="padding-left: 1em; text-indent: -1em;">says, A. (2022, February 24). Neurotypical privilege in the labour market. LSE Business Review. https://blogs.lse.ac.uk/businessreview/2022/02/24/neurotypical-privilege-in-the-labour-market/</p>
 ‌
-<p style="padding-left: 1em; text-indent: -2em;">CDC. (2021, September 23). Data and statistics about ADHD. Centers for Disease Control and Prevention. https://www.cdc.gov/ncbddd/adhd/data.html</p>
+<p style="padding-left: 1em; text-indent: -1em;">CDC. (2021, September 23). Data and statistics about ADHD. Centers for Disease Control and Prevention. https://www.cdc.gov/ncbddd/adhd/data.html</p>
 
-<p style="padding-left: 1em; text-indent: -2em;">Health, S. (2022, June 3). Augmental Tech’s Care Navigation App for Neurodivergent Children Puts Parents at the Center. Medium. https://healthtransformer.co/augmental-techs-care-navigation-app-for-neurodivergent-children-puts-parents-at-the-center-e6573f59a01d</p>
+<p style="padding-left: 1em; text-indent: -1em;">Health, S. (2022, June 3). Augmental Tech’s Care Navigation App for Neurodivergent Children Puts Parents at the Center. Medium. https://healthtransformer.co/augmental-techs-care-navigation-app-for-neurodivergent-children-puts-parents-at-the-center-e6573f59a01d</p>
 ‌
-<p style="padding-left: 1em; text-indent: -2em;">Kent, C. (2021, March 11). Brain in Hand: coming in handy for neurodivergent people. Medical Device Network. https://www.medicaldevice-network.com/features/brain-in-hand/</p>
+<p style="padding-left: 1em; text-indent: -1em;">Kent, C. (2021, March 11). Brain in Hand: coming in handy for neurodivergent people. Medical Device Network. https://www.medicaldevice-network.com/features/brain-in-hand/</p>
 
-<p style="padding-left: 1em; text-indent: -2em;">Digital technologies supporting persons on the autism spectrum. (2019, April 2). Mobile for Development. https://www.gsma.com/mobilefordevelopment/blog/digital-technologies-supporting-persons-on-the-autism-spectrum/</p>
+<p style="padding-left: 1em; text-indent: -1em;">Digital technologies supporting persons on the autism spectrum. (2019, April 2). Mobile for Development. https://www.gsma.com/mobilefordevelopment/blog/digital-technologies-supporting-persons-on-the-autism-spectrum/</p>
 ‌
-<p style="padding-left: 1em; text-indent: -2em;">Lim, C. G., Poh, X. W. W., Fung, S. S. D., Guan, C., Bautista, D., Cheung, Y. B., Zhang, H., Yeo, S. N., Krishnan, R., & Lee, T. S. (2019). A randomized controlled trial of a brain-computer interface based attention training program for ADHD. PLOS ONE, 14(5), e0216225. https://doi.org/10.1371/journal.pone.0216225</p>
+<p style="padding-left: 1em; text-indent: -1em;">Lim, C. G., Poh, X. W. W., Fung, S. S. D., Guan, C., Bautista, D., Cheung, Y. B., Zhang, H., Yeo, S. N., Krishnan, R., & Lee, T. S. (2019). A randomized controlled trial of a brain-computer interface based attention training program for ADHD. PLOS ONE, 14(5), e0216225. https://doi.org/10.1371/journal.pone.0216225</p>
 
-<p style="padding-left: 1em; text-indent: -2em;">Neurodiversity - NCI. (2022, April 25). Dceg.cancer.gov. https://dceg.cancer.gov/about/diversity-inclusion/inclusivity-minute/2022/neurodiversity#:~:text=Driven%20by%20both%20genetic%20and</p>
+<p style="padding-left: 1em; text-indent: -1em;">Neurodiversity - NCI. (2022, April 25). Dceg.cancer.gov. https://dceg.cancer.gov/about/diversity-inclusion/inclusivity-minute/2022/neurodiversity#:~:text=Driven%20by%20both%20genetic%20and</p>
 ‌
-<p style="padding-left: 1em; text-indent: -2em;">Accardo, A. L., Pontes, N. M. H., & Pontes, M. C. F. (2022). Heightened Anxiety and Depression Among Autistic Adolescents with ADHD: Findings From the National Survey of Children’s Health 2016–2019. Journal of Autism and Developmental Disorders. https://doi.org/10.1007/s10803-022-05803-9</p>
+<p style="padding-left: 1em; text-indent: -1em;">Accardo, A. L., Pontes, N. M. H., & Pontes, M. C. F. (2022). Heightened Anxiety and Depression Among Autistic Adolescents with ADHD: Findings From the National Survey of Children’s Health 2016–2019. Journal of Autism and Developmental Disorders. https://doi.org/10.1007/s10803-022-05803-9</p>
 
-<p style="padding-left: 1em; text-indent: -2em;">Aherne, A. (2023, January 30). ADHD more strongly linked to anxiety and depression compared to autism – new research. Living on the Spectrum. https://www.livingonthespectrum.com/health-and-wellbeing/adhd-anxiety-link/</p>
+<p style="padding-left: 1em; text-indent: -1em;">Aherne, A. (2023, January 30). ADHD more strongly linked to anxiety and depression compared to autism – new research. Living on the Spectrum. https://www.livingonthespectrum.com/health-and-wellbeing/adhd-anxiety-link/</p>
 ‌
-<p style="padding-left: 1em; text-indent: -2em;">Rakhymbayeva, N., Amirova, A., & Sandygulova, A. (2021). A Long-Term Engagement with a Social Robot for Autism Therapy. Frontiers in Robotics and AI, 8. https://doi.org/10.3389/frobt.2021.669972</p>
+<p style="padding-left: 1em; text-indent: -1em;">Rakhymbayeva, N., Amirova, A., & Sandygulova, A. (2021). A Long-Term Engagement with a Social Robot for Autism Therapy. Frontiers in Robotics and AI, 8. https://doi.org/10.3389/frobt.2021.669972</p>
 ‌</div>
 ‌
 ‌
