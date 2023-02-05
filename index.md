@@ -1,10 +1,6 @@
 ---
 title: Digital Solutions and Assistance for the Neurodivergent
 ---
----
-description: How digital health can help those with Neurodivergent conditions
----
-
 
 
 ## What is Neurodivergence ?
