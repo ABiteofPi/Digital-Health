@@ -4,13 +4,10 @@
 @import "{{ site.theme }}";
 
 
-:root { font-family: 'Inter', sans-serif; }
-@supports (font-variation-settings: normal) {
-  :root { font-family: 'Inter var', sans-serif; }
-}
 
 .page-header {
      font-family: 'Inter';
+     src: url(https://fonts.gstatic.com/s/inter/v12/UcCO3FwrK3iLTeHuS_fvQtMwCp50KnMw2boKoduKmMEVuLyfAZ9hiA.woff2) format('woff2');
      font-weight: medium;
      text-align: center;
      background: #77A063;
