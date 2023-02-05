@@ -47,14 +47,14 @@ title: Digital Solutions and Assistance for the Neurodivergent
 </div>
 <br/><br/>
 
-## Conclusion
+<h2> Conclusion </h2>
 
 <div align = "justify">
 It is as easy mislabeling or misjudging people’s behaviors, as it is overlooking the struggles of those who are different from what’s considered the social norm. This is the case for many groups of people including the neurodivergent. People who are often criticized or even bullied for acting or operating differently due to their brain differences. In the digital age with the available resources and platforms, namely the internet and various technological advancements, there are new, easier and more efficient ways to aid the struggles of people with different neurodivergent conditions. Digital solutions have been and are continuously being developed, tested and modified to better help both neurodivergent people and their caretakers. While the challenges they face could differ in each of these conditions, utilizing various resources, steps can be taken within digital health to offer a more personalized and suitable aid for the neurodivergent in navigating daily life.
 </div>
 <br/><br/>
 
-## References
+<h2> References </h2>
 
 <div align = "justify">
 
