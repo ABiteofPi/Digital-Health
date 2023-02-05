@@ -56,8 +56,10 @@ It is as easy mislabeling or misjudging people’s behaviors, as it is overlooki
 
 ## References
 
-<div align = "justify" style=“text-indent: -36px; padding-left: 36px;”>
-<p>Neurodivergent: What It Is, Symptoms & Types. (n.d.). Cleveland Clinic. https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent#:~:text=The%20term%20%E2%80%9Cneurodivergent%E2%80%9D%20describes%20people</p>
+<div align = "justify">
+{{< biblio-ref >}}
+Neurodivergent: What It Is, Symptoms & Types. (n.d.). Cleveland Clinic. https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent#:~:text=The%20term%20%E2%80%9Cneurodivergent%E2%80%9D%20describes%20people
+{{< /biblio-ref >}}
 ‌
 <p>Resnick, A. (2021, October 6). What Is Neurodivergence and What Does It Mean to Be Neurodivergent? Verywell Mind. https://www.verywellmind.com/what-is-neurodivergence-and-what-does-it-mean-to-be-neurodivergent-5196627</p>
 ‌
