@@ -9,11 +9,10 @@ title: Digital Solutions and Assistance for the Neurodivergent
 
 ## What is Neurodivergence ?
 
-<div style="text-align: justify">
-“Neurodivergent” is a term used in describing people whose brains function different from what’s considered “Typical”. The term “Neurotypical” is used when describing individuals with brain development and function which is considered usual or within expectation by society. “Neurodiverse” is also used in describing groups of people with neurodivergent members.
-Neurotypical people’s strengths and challenges are unaffected by differences that change how their brains operate. As opposed to Neurodivergent individuals in which, behavior, thought process and learning process differs from the Neurotypical, resulting in different strengths and weaknesses than the general public’s idea of “Normal”.
-While not all representations of Neurodivergency are considered disabilities, some include medical/mental disorders, leaning disabilities and other such conditions. Conditions such as autism, ADHD, dyslexia, dyscalculia, synesthesia, along with other sensory processing disorders are a few examples that can be classified as neurodivergence. In addition, other conditions like schizophrenia, OCD, BPD and bipolar disorder, can also be considered as a form of neurodivergence.
-</div>
+<div align = "justify">“Neurodivergent” is a term used in describing people whose brains function different from what’s considered “Typical”. The term “Neurotypical” is used when describing individuals with brain development and function which is considered usual or within expectation by society. “Neurodiverse” is also used in describing groups of people with neurodivergent members.</div>
+<div align = "justify">Neurotypical people’s strengths and challenges are unaffected by differences that change how their brains operate. As opposed to Neurodivergent individuals in which, behavior, thought process and learning process differs from the Neurotypical, resulting in different strengths and weaknesses than the general public’s idea of “Normal”.</div>
+<div align = "justify">While not all representations of Neurodivergency are considered disabilities, some include medical/mental disorders, leaning disabilities and other such conditions. Conditions such as autism, ADHD, dyslexia, dyscalculia, synesthesia, along with other sensory processing disorders are a few examples that can be classified as neurodivergence. In addition, other conditions like schizophrenia, OCD, BPD and bipolar disorder, can also be considered as a form of neurodivergence.</div>
+
 
 ## Neurodivergent Challenges
 
