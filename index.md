@@ -9,16 +9,16 @@ title: Digital Solutions and Assistance for the Neurodivergent
 
 ## What is Neurodivergence ?
 
-<div align = "justify">“Neurodivergent” is a term used in describing people whose brains function different from what’s considered “Typical”. The term “Neurotypical” is used when describing individuals with brain development and function which is considered usual or within expectation by society. “Neurodiverse” is also used in describing groups of people with neurodivergent members.</div>
-<div align = "justify">Neurotypical people’s strengths and challenges are unaffected by differences that change how their brains operate. As opposed to Neurodivergent individuals in which, behavior, thought process and learning process differs from the Neurotypical, resulting in different strengths and weaknesses than the general public’s idea of “Normal”.</div>
-<div align = "justify">While not all representations of Neurodivergency are considered disabilities, some include medical/mental disorders, leaning disabilities and other such conditions. Conditions such as autism, ADHD, dyslexia, dyscalculia, synesthesia, along with other sensory processing disorders are a few examples that can be classified as neurodivergence. In addition, other conditions like schizophrenia, OCD, BPD and bipolar disorder, can also be considered as a form of neurodivergence.</div>
-
-
+<div align = "justify">
+“Neurodivergent” is a term used in describing people whose brains function different from what’s considered “Typical”. The term “Neurotypical” is used when describing individuals with brain development and function which is considered usual or within expectation by society. “Neurodiverse” is also used in describing groups of people with neurodivergent members.
+Neurotypical people’s strengths and challenges are unaffected by differences that change how their brains operate. As opposed to Neurodivergent individuals in which, behavior, thought process and learning process differs from the Neurotypical, resulting in different strengths and weaknesses than the general public’s idea of “Normal”.
+While not all representations of Neurodivergency are considered disabilities, some include medical/mental disorders, leaning disabilities and other such conditions. Conditions such as autism, ADHD, dyslexia, dyscalculia, synesthesia, along with other sensory processing disorders are a few examples that can be classified as neurodivergence. In addition, other conditions like schizophrenia, OCD, BPD and bipolar disorder, can also be considered as a form of neurodivergence.
+</div>
 
 
 ## Neurodivergent Challenges
 
-<div style="text-align: justify">
+<div align = "justify">
 Neurodivergent people can have various strengths that could manifest in forms of creativity, hyper-focus, sensory awareness and much more. They also face many challenges on a day-to-day basis that could easily be overlooked by people who do not share the same life experiences.
 Certain challenges can be visibly observed, althought without proper education and or professional help, many neurodivergent individuals go about various struggles solely due to their neurodivergence, while considering them “normal” life experiences. For the same reason, people with these conditions are often treated poorly by others as certain behaviors could easily be mislabeled. As an example; people with attention deficit hyperactivity disorder (ADHD), struggle with attention and organization, or people on the autistic spectrum could struggle with social behaviors and interactions. These instances could (and often are) misread as intentionally rude or offensive behaviors, laziness and other such interpretations.
 Educating the public, especially children and their parents about neurodivergence, how it could manifest, effect everyday life, how to utilize the strengths it could contain and how to effectively deal with the challenges is an essential step. It is estimated that 15-20% of the world’s population exhibit some form of neurodivergence. Educational steps should also be taken for the neurotypical, to better understand neurodivergent conditions in order to provide a better, more efficient and safer social space such as in school or in the workplace.
@@ -27,7 +27,7 @@ Studies show, people with neurodivergent conditions are more prone to anxiety di
 
 ## Digital and Technology-driven solutions
 
-<div style="text-align: justify">
+<div align = "justify">
 Each neurodivergent individual has unique experiences and struggles which could depend on numerous factors such as their condition and environment. While addressing each issue specific to every single individual as a general concept my sound overwhelming, there are solutions that could be designed in such way that would benefit larger neurodiverse groups in meaningful and effective ways.
 As previously mentioned, proper education is an important measure to be taken and it has never been easier than in the digital age.  A problem that has arisen in the healthcare community, especially regarding neurodivergent children, is the low quality of information available for the professionals and individuals themselves. Even though people expect and search for the best possible care and diagnosis, knowing the appropriate factors to pay attention to and properly recording the needed data is easier said than done. To prevent misdiagnosis and mistreatment in neurodivergent cases (a large number of which contains children), apps and digital tools are being developed. The aim of these apps are helping caretakers and parents, track symptoms, behaviors, medication, doctor appointments and overall better and more efficient navigation in managing a care plan while also providing valuable resources.
 Neurodivergent people have far more difficulty processing everyday tasks, most other people would consider easy to process, namely, decision making, remembering things or planning ahead. Platforms have been developed to help with self-management, providing professional support and a safe space for people to interact, share their experiences and coping methods.
@@ -40,13 +40,13 @@ Brain-computer interface (BCI) technology has also been used in attention traini
 
 ## Conclusion
 
-<div style="text-align: justify">
+<div align = "justify">
 It is as easy mislabeling or misjudging people’s behaviors, as it is overlooking the struggles of those who are different from what’s considered the social norm. This is the case for many groups of people including the neurodivergent. People who are often criticized or even bullied for acting or operating differently due to their brain differences. In the digital age with the available resources and platforms, namely the internet and various technological advancements, there are new, easier and more efficient ways to aid the struggles of people with different neurodivergent conditions. Digital solutions have been and are continuously being developed, tested and modified to better help both neurodivergent people and their caretakers. While the challenges they face could differ in each of these conditions, utilizing various resources, steps can be taken within digital health to offer a more personalized and suitable aid for the neurodivergent in navigating daily life.
 </div>
 
 ## References
 
-<div style="text-align: justify">
+<div align = "justify">
 Neurodivergent: What It Is, Symptoms & Types. (n.d.). Cleveland Clinic. https://my.clevelandclinic.org/health/symptoms/23154-neurodivergent#:~:text=The%20term%20%E2%80%9Cneurodivergent%E2%80%9D%20describes%20people
 ‌
 Resnick, A. (2021, October 6). What Is Neurodivergence and What Does It Mean to Be Neurodivergent? Verywell Mind. https://www.verywellmind.com/what-is-neurodivergence-and-what-does-it-mean-to-be-neurodivergent-5196627
