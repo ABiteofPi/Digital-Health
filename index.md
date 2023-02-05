@@ -14,6 +14,8 @@ title: Digital Solutions and Assistance for the Neurodivergent
 <div align = "justify">While not all representations of Neurodivergency are considered disabilities, some include medical/mental disorders, leaning disabilities and other such conditions. Conditions such as autism, ADHD, dyslexia, dyscalculia, synesthesia, along with other sensory processing disorders are a few examples that can be classified as neurodivergence. In addition, other conditions like schizophrenia, OCD, BPD and bipolar disorder, can also be considered as a form of neurodivergence.</div>
 
 
+
+
 ## Neurodivergent Challenges
 
 <div style="text-align: justify">
