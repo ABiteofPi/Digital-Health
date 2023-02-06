@@ -43,7 +43,7 @@ Children with autism face particular challenges engaging in new environments and
 </blockquote></p>
 <figure>
   <img src="https://robots.ieee.org/robots/qtrobot/Photos/SD/qtrobot-photo1-full.jpg" alt="Companion robot for autistic children">
-  <figcaption>QTrobot, a companion robot for autistic children. *(image courtesy of LuxAI)*</figcaption>
+  <figcaption>QTrobot, a companion robot for autistic children. <i>(LuxAI)</i></figcaption>
 </figure>
 <p>Brain-computer interface (BCI) technology has also been used in attention training programs. One such instance is “Cogo”, where an interactive game was developed and tested on children with ADHD. BCI enables people to control external devices via brainwaves. Cogo used a game called “Cogoland” which requires the child to move the avatar in the game by concentrating. The clinical trial involving 172 children with ADHD (ages 6-12), showed significant improvement in inattentive symptoms after 8 weeks of intervention.</p>
 </div>
