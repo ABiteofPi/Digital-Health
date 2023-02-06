@@ -3,12 +3,15 @@
 
 @import "{{ site.theme }}";
 
-
+.btn {
+  display: none !important;
+}
 
 .page-header {
      font-family: Calibri;
      background-image: url("/Digital-Health-Blog/assets/header-art.png");
-     background-size: 60% 60%;
+     background-size: 60%;
+     height: 400px
      background-position: right;
      background-repeat: no-repeat;
      text-align: center;
